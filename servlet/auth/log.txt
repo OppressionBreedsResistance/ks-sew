@@ -1,0 +1,3 @@
+Login: test | Hasło: test | Data: 2024-11-21 12:12:51
+Login: test | Hasło: test | Data: 2024-11-21 12:33:57
+Login: test | Hasło: test | Data: 2024-11-21 12:34:01
